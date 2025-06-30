@@ -1,0 +1,23 @@
+Function Example	
+Description
+
+s.push_back('!')	
+Adds a single character to the end of the string.
+
+s.insert(5, " World")	
+Inserts " World" at index position 5 in the string.
+
+s.pop_back()	
+Removes the last character of the string.
+
+s.erase(6, 4)	
+Removes 4 characters starting from index 6.
+
+s.replace(7, 4, "pizza")	
+Replaces 4 characters at index 7 with "pizza".
+
+s.append(" World")	
+Appends " World" to the end of the string.
+
+toupper(c) / tolower(c)	
+Converts character c to uppercase/lowercase (used in a loop for strings).
